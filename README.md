@@ -5,3 +5,7 @@
 ## subheader
 
 very good text
+
+## Local Development
+
+1. Open index.htmnl in your browser.
